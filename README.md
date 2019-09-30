@@ -11,3 +11,7 @@ The Movies Dataset (https://www.kaggle.com/rounakbanik/the-movies-dataset)
 
 # Libraries Used
 We used the Natural Language Toolkit, scikit-learn, Wordcloud libraries.
+
+# Future Plans
+1. Using deep learning to analyse a relationship between box office revenue and other factors.
+2. Make predictions from deep learning models.
